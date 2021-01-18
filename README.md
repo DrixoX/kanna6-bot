@@ -1,33 +1,43 @@
-# schildkroeten-bot German Discord Bot
+# Kanna 6 English Bot
 # Bot coded by Drixo X
 # hier siehst du alle unsere Commands von unserem Bot
 
-;help ✩ Das Help System
+;help ✩ The Help command
 
-;invite ✩ Zeigt dir den Support Server und den bot invite Link
+;give-roles ✩ Give the Member Roles
 
-;avatar ✩ Siehe deinen Avatar
+;bot-info ✩ shows you the bot info
 
-;ban ✩ Ban ein User aus ein Server
+;lock ✩ Lockdown the Channel
 
-;kick ✩ Kickt ein User aus ein Server
+;slowmode ✩ SlowMode the Channel
 
-;ping ✩ Siehe die Pings
+;invite ✩ Shows you the support server and the bot invite link
 
-;say ✩ Say Befehl
+;avatar ✩ See your avatar
 
-;deletewarns ✩ Delete die warns
+;ban ✩ Ban a user from a server
 
-;clear ✩ cleart den Chatverlauft
+;kick ✩ Kick a user from a server
 
-;server-info ✩ Zeige die Infos über den Server
+;nuke ✩ Nuke the channel
 
-;userinfo ✩ Zeige die Infos über deinen Account
+;ping ✩ See the pings
 
-;warn ✩ Warn ein User
+;say ✩ Say command
 
-;warnings ✩ zeigt dir an wie viele Warns du hast!
+;deletewarns ✩ Delete the warns
 
-;meme ✩ Schickt dir Memes
+;clear ✩ clear the chat history
+
+;server-info ✩ Show the information about the server
+
+;userinfo ✩ Show the information about your account
+
+;warn ✩ Warn a user
+
+;warnings ✩ shows you how many warnings you have!
+
+;meme ✩ Sends you memes
 
 Need Help or bug report? here the Support Server: https://dsc.gg/drixo
