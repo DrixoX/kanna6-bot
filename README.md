@@ -19,7 +19,7 @@
 
 ;clear ✩ cleart den Chatverlauft
 
-;serverinfo ✩ Zeige die Infos über den Server
+;server-info ✩ Zeige die Infos über den Server
 
 ;userinfo ✩ Zeige die Infos über deinen Account
 
