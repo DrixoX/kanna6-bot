@@ -1,6 +1,6 @@
 # Kanna 6 English Bot
 # Bot coded by Drixo X
-# hier siehst du alle unsere Commands von unserem Bot
+# here you can see all our commands from our bot
 
 ;help ✩ The Help command
 
@@ -41,3 +41,5 @@
 ;meme ✩ Sends you memes
 
 Need Help or bug report? here the Support Server: https://dsc.gg/drixo
+
+Bot invite: https://dsc.gg/kanna6
