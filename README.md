@@ -29,3 +29,5 @@
 ;warnings ✩ zeigt dir an wie viele Warns du hast!
 
 ;meme ✩ Schickt dir Memes
+
+Need Help or bug report? here the Support Server: https://dsc.gg/drixo
