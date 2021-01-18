@@ -1,4 +1,5 @@
 # schildkroeten-bot German Discord Bot
+# Bot coded by Drixo X
 # hier siehst du alle unsere Commands von unserem Bot
 
 ;help ✩ Das Help System
