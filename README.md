@@ -4,11 +4,13 @@
 
 ;help ✩ The Help command
 
-;give-roles ✩ Give the Member Roles
-
 ;bot-info ✩ shows you the bot info
 
-;lock ✩ Lockdown the Channel
+;start ✩ Giveaways Start
+
+;end ✩ end the Giveaways
+
+;reroll ✩ Reroll the Giveaways (new winner)
 
 ;slowmode ✩ SlowMode the Channel
 
