@@ -4,6 +4,32 @@
 
 ;help ✩ The Help command
 
+;loop ✩ Loop the music
+
+;lyrics ✩ lyrics music
+
+;nowPlaying ✩ See whats nowPlaying
+
+;pause ✩ Stop
+
+;play ✩ play Songs
+
+;radio ✩ Activ Radio
+
+;queue ✩ queue command
+
+;search ✩ search the Music
+
+;skip ✩ Skip the song
+
+;skipto ✩ Skip 2.
+
+;remove ✩ Remove the Channel
+
+;resume ✩ Resume command
+
+;filter ✩ Filter with music
+
 ;bot-info ✩ shows you the bot info
 
 ;start ✩ Giveaways Start
