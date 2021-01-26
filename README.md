@@ -12,6 +12,18 @@
 
 ;reroll ✩ Reroll the Giveaways (new winner)
 
+;trigger - trigger pictures
+
+;neko - Random Nekos pictures
+
+;setafk - set your afk
+
+;addrole - add the user the role
+
+;info - Bot info 2.0
+
+;removerole - remove the user the role
+
 ;slowmode ✩ SlowMode the Channel
 
 ;invite ✩ Shows you the support server and the bot invite link
