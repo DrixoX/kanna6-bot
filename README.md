@@ -1,5 +1,5 @@
-# Kanna 6 English Bot
-# Bot coded by Drixo X
+# Galaxy english Bot
+# Bot coded by Dixon
 # here you can see all our commands from our bot
 
 ;help ✩ The Help command
@@ -29,10 +29,6 @@
 ;invite ✩ Shows you the support server and the bot invite link
 
 ;avatar ✩ See your avatar
-
-;ban ✩ Ban a user from a server
-
-;kick ✩ Kick a user from a server
 
 ;nuke ✩ Nuke the channel
 
